@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<solar_system>
+	<!-- scale : échelle approximative ajustée -->
+	<!-- distance : distance jusqu au soleil en année lumière -->
+	<planet nom="Mercure" scale="0.2" distance="0.1" ordinate="0" texture="../images/planetes/textures/mercurymap.jpg" swf="../publications/Planet_Models/mercuryModel.swf" img="../images/planetes/mercure.png"><![CDATA[
+La planète <font color='#FF6600'>Mercure</font> fut nommé par les romains d'après le "messager ailé des dieux" parce qu'elle semble se déplacer plus rapidement que toutes les autres planètes. C'est la planète <font color='#FF6600'>la plus proche du Soleil</font>. Son diamètre est de 40% inférieur à celui de la terre et 40% supérieur à celui de la Lune.
+La surface de Mercure ressemble à celle de la Lune. <font color='#FF6600'>De nombreux cratères parsèment sa surface</font> et elle ne possède virtuellement pas d'atmosphère pour diffuser la lumière : le ciel y serait donc toujours noir.
+		<b>Orbite</b> : 57.910.000 km<br/>		<b>Diamètre</b> : 4880 km<br/>		<b>Masse</b> : 3.30e3 kg<br/>		<b>Période de révolution</b> : 59 jours<br/>		<b>Période orbitale</b> : 0.241 an]]> 
+	</planet>
+	<planet nom="Venus" scale="0.5" distance="0.3" ordinate="10" texture="../images/planetes/textures/venusmap.jpg" swf="../publications/Planet_Models/venusModel.swf" img="../images/planetes/venus.png"><![CDATA[
+La planète <font color='#FF6600'>Vénus</font>, qui fut nommée d'après la déesse romaine de l'amour et la beauté, est <font color='#FF6600'>voilée par d'épais nuages tourbillonants</font>.
+Les astronomes réfèrent à Vénus comme étant <font color='#FF6600'>la planète soeur de la Terre</font>. Les deux planètes sont similaires en grosseur, en masse, en densité et en volume.
+Elle est l'une des seules planètes dont la rotation est rétrograde, et la seule ayant une période de rotation (243 jours) supérieure à sa période de révolution.
+L'atmosphère de Vénus est la plus épaisse de celle de toutes les planètes telluriques, avec une pression au sol atteignant 9,3 MPa.
+		<b>Orbite</b> : 108 200 000 km<br/>		<b>Diamètre</b> : 12 103 km<br/>		<b>Masse</b> : 4.869e24 kg<br/>		<b>Période de révolution</b> : 243 jours<br/>		<b>Période orbitale</b> : 0.615 an]]>
+	</planet>
+	<planet nom="Terre" scale="0.5" distance="0.4" ordinate="20" texture="../images/planetes/textures/earthmap.jpg" swf="../publications/Planet_Models/earthModel.swf" img="../images/planetes/earth.png"><![CDATA[
+Composée à <font color='#FF6600'>70% d'eau</font>, la <font color='#FF6600'>Terre</font> est la troisième planète du Système solaire par ordre de distance croissante au Soleil, et la quatrième par taille et par masse croissantes. Il s'agit de la plus grande et la plus massive des quatre planètes telluriques.
+L'atmosphère terrestre est composé en majorité d'azote, mais contient également de l'oxygène et du dioxide de carbone en plus petites quantités.
+Elle possède un satellite naturel, la <font color='#FF6600'>Lune, distante d'environ 380 000 km à 400 000 km</font>, est le cinquième plus gros satellite du Système solaire.
+		<b>Orbite</b> : 149 600 000 km<br/>		<b>Diamètre</b> : 12 756 km<br/>		<b>Masse</b> : 5.972e24 kg<br/>		<b>Nombre</b> de lunes : 1]]>
+	</planet>
+	<planet nom="Mars" scale="0.4" distance="0.5" ordinate="30"  texture="../images/planetes/textures/marsmap.jpg" swf="../publications/Planet_Models/marsModel.swf" img="../images/planetes/Mars.png"><![CDATA[
+Communément désignée comme <font color='#FF6600'>"La planète rouge", Mars</font> est une planète tellurique environ dix fois moins massive que la Terre.
+L'<font color='#FF6600'>atmosphère</font> de Mars, composée en majorité de <font color='#FF6600'>dioxide de carbone</font>, étant de surcroît plus de 150 fois moins dense que la nôtre et ne générant par conséquent qu'un effet de serre très limité, ce faible rayonnement solaire explique que la température moyenne sur Mars soit inférieure à -60 °C.
+Les grains de poussière en suspension dans l'atmosphère sont responsables de la couleur rouille de cette dernière, qui vire au bleu au coucher du soleil.
+		<b>Orbite</b> : 227 940 000 km<br/>		<b>Diamètre</b> : 6 794 km<br/>		<b>Masse</b> : 6.4219e23 kg<br/>		<b>Nombre de lunes</b> : 2<br/>		<b>Période de révolution</b> : 24.6 heures<br/>		<b>Période orbitale</b> : 1.88 an]]>
+	</planet>
+	<planet nom="Jupiter" scale="2" distance="0.70" ordinate="-20" texture="../images/planetes/textures/jupitermap.jpg" swf="../publications/Planet_Models/jupiterModel.swf" img="../images/planetes/jupiter.png"><![CDATA[
+<font color='#FF6600'>Jupiter</font> est une planète géante gazeuse, <font color='#FF6600'>la plus volumineuse du système solaire</font>. Comme sur les autres planètes gazeuses, des <font color='#FF6600'>vents violents, de près de 600 km/h</font>, parcourent les couches supérieures de la planète. La célèbre et spectaculaire grande tache rouge est une zone de surpression qui est observée au moins depuis le xixe siècle.
+		<b>Orbite</b> : 778 330 000 km<br/>		<b>Diamètre</b> : 142 984 km<br/>		<b>Masse</b> : 1.900e23 kg<br/>		<b>Nombre de lunes</b> : 16<br/>		<b>Période de révolution</b> : 9.8 heures<br/>		<b>Période orbitale</b> : 11.86 ans]]>
+	</planet>
+	<planet nom="Saturne" scale="1.8" distance="0.90" ordinate="-10" texture="../images/planetes/textures/saturnmap.jpg" swf="../publications/Planet_Models/saturnModel.swf" img="../images/planetes/saturn.png"><![CDATA[
+<font color='#FF6600'>Saturne</font> est la <font color='#FF6600'>la deuxième plus grande planète</font> du système solaire après Jupiter. 
+Saturne possède un magnifique système de <font color='#FF6600'>9 anneaux</font>, composés principalement de particules de glace et de poussière. Saturne possède de nombreux satellites, dont <font color='#FF6600'>53</font> ont été confirmés et nommés. 
+Titan est le plus grand satellite de Saturne. Plus grand que la planète Mercure et <font color='#FF6600'>Titan la seule lune du système solaire à posséder une atmosphère substantielle</font>.
+		<b>Orbite</b> : 1 429 400 000 km<br/>		<b>Diamètre</b> : 120 536 km<br/>		<b>Masse</b> : 5.68e23 kg<br/>		<b>Nombre de lunes</b> : 18<br/>		<b>Période de révolution</b> : 10.2 heures<br/>		<b>Période orbitale</b> : 29.46 ans]]>
+	</planet>
+	<planet nom="Uranus" scale="1" distance="1.1" texture="../images/planetes/textures/uranusmap.jpg" swf="../publications/Planet_Models/uranusModel.swf" img="../images/planetes/uranus.png"><![CDATA[
+L’atmosphère d’<font color='#FF6600'>Uranus</font>, bien que composée principalement d’hydrogène et d’hélium, contient une proportion plus importante de glaces d’eau, d’ammoniac et de méthane. 
+Uranus est la planète du système solaire dont <font color='#FF6600'>l’atmosphère est la plus froide</font>, sa température minimale étant de 49 K (-224 °C).
+		<b>Orbite</b> : 2 870 990 000 km<br/>		<b>Diamètre</b> : 51 118 km<br/>		<b>Masse</b> : 8.683e25 kg<br/>		<b>Nombre de lunes</b> : 15<br/>		<b>Période de révolution</b> : 15.5 heures<br/>		<b>Période orbitale</b> : 84 ans]]>
+	</planet>
+	<planet nom="Neptune" scale="1" distance="1.2" texture="../images/planetes/textures/neptunemap.jpg" swf="../publications/Planet_Models/neptuneModel.swf" img="../images/planetes/neptune.png"><![CDATA[
+<font color='#FF6600'>Neptune</font> est la huitième et dernière planète du Système solaire par distance croissante au Soleil. 
+L'atmosphère de Neptune est principalement constituée d'hydrogène et d'hélium avec des traces d'hydrocarbures et peut-être d'azote, mais contiendrait davantage de « glaces ».
+Contrairement aux sept autres planètes, <font color='#FF6600'>Neptune n'est jamais visible à l'œil nu</font> . Neptune est la seule des huit planètes connues à avoir été découverte par le calcul mathématique plutôt que par l'observation empirique.
+Le nom de cette huitième planète vient de Neptune le dieu des océans dans la mythologie romaine.
+		<b>Orbite</b> : 4 504 000 000 km<br/>		<b>Diamètre</b> : 49 532 km<br/>		<b>Masse</b> : 1.0247e25 kg<br/>		<b>Nombre de lunes</b> : 8<br/>		<b>Période de révoultion</b> : 15.8 heures<br/>		<b>Période orbitale</b> : 164.8 ans]]>
+	</planet> 
+</solar_system>

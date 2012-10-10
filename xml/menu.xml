@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<navigation>
+	<menu nom="Cours">
+		<submenu nom="Système solaire" swf="../publications/coursSysteme.swf" description="Utilisez les boutons de navigation ou survolez les planètes pour obtenir d'avantage d'informations sur le système solaire"/> 
+		<submenu nom="Les planètes" swf="../publications/coursPlanete.swf" description="Utilisez les boutons de navigation pour obtenir d'avantage d'informations sur chaque planète du système solaire"/>
+	</menu>
+	<menu nom="Exercices">
+		<submenu nom="Puzzle " swf="../publications/puzzle.swf" description="Glissez chaque planète sur son orbite correspondante."/> 
+		<submenu nom="Quizz  n°1" swf="../publications/quizz1.swf" description=""/>
+		<submenu nom="Quizz  n°2" swf="../publications/quizz2.swf" description=""/>
+	</menu>
+	<menu nom="Evaluation">
+		<submenu nom="Puzzle" swf="../publications/puzzle_eval.swf" description="Glissez chaque planète sur son orbite correspondante. Le temps vous est compté, mais attention aux erreurs ! Vous avez 8 essais."/> 
+		<submenu nom="Quizz n°1" swf="../publications/quizz1_eval.swf" description=""/>
+		<submenu nom="Quizz n°2" swf="../publications/quizz2_eval.swf" description=""/>
+		<submenu nom="Jeu" swf="../publications/jeu.swf" description="Attrapez un maximum de planètes Telluriques dans le temps imparti. Mais attention aux planètes gazeuses !"/>
+	</menu>
+	<menu nom="Autre">
+		<submenu nom="Scores" swf="../publications/score.swf" description=""/>
+		<submenu nom="À propos" swf="../publications/apropos.swf" description=""/> 
+	</menu>
+</navigation>

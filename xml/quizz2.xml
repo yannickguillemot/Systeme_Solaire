@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<questions>		
+	<question texte="La planète Terre est composée à...">
+		<reponse bonne="vrai">70% d'eau</reponse>
+		<reponse>75% d'eau</reponse>
+		<reponse>80% d'eau</reponse>
+		<reponse>85% d'eau</reponse>
+	</question>
+	
+	<question texte="Comment est surnommée la planète Mars ?">
+		<reponse>La planète pinard</reponse>
+		<reponse>La planète rose</reponse>
+		<reponse bonne="vrai">La planète rouge</reponse>
+		<reponse>La planète orange</reponse>
+	</question>
+	
+	<question texte="Jupiter est la plus grosse planète du système solaire devant ?">
+		<reponse bonne="vrai">Saturne</reponse>
+		<reponse>Jupiter</reponse>
+		<reponse>Terre</reponse>
+		<reponse>Mars</reponse>
+	</question>
+	
+	<question texte="Combien d'anneaux compte la planète Saturne ?">
+		<reponse>1</reponse>
+		<reponse bonne="vrai">9</reponse>
+		<reponse>10</reponse>
+		<reponse>20</reponse>
+	</question>
+	
+	<question texte="Quelle est la distance séparant la Lune de la Terre ?">
+		<reponse>Entre 80 000 km et 100 000 km</reponse>
+		<reponse>Entre 180 000 km et 200 000 km</reponse>
+		<reponse bonne="vrai">Entre 380 000 km et 400 000 km</reponse>
+		<reponse>Entre 480 000 km et 500 000 km</reponse>
+	</question>
+	
+	<question texte="De quoi n'est pas composée l'atmosphère terrestre ?">
+		<reponse>Azote</reponse>
+		<reponse>Oxygène</reponse>
+		<reponse bonne="vrai">Helium</reponse>
+		<reponse>Dioxyde</reponse>
+	</question>
+	
+	<question texte="Combien de satellites autour de Saturne ont été confirmés ?">
+		<reponse>0</reponse>
+		<reponse bonne="vrai">53</reponse>
+		<reponse>103</reponse>
+		<reponse>153</reponse>
+	</question>
+	
+	<question texte="Quelle est la planète la plus éloignée du Soleil ?">
+		<reponse>Mercure</reponse>
+		<reponse>Saturne</reponse>
+		<reponse>Uranus</reponse>
+		<reponse bonne="vrai">Neptune</reponse>
+	</question>
+	
+	<question texte="Quelle est la vitesse des vents sur les planètes gazeuses comme Jupiter ?">
+		<reponse>100 km/h</reponse>
+		<reponse>300 km/h</reponse>
+		<reponse>500 km/h</reponse>
+		<reponse bonne="vrai">600 km/h</reponse>
+	</question>
+	
+	<question texte="Quelle est la plus grande des planètes telluriques ?">
+		<reponse>Mercure</reponse>
+		<reponse bonne="vrai">La Terre</reponse>
+		<reponse>Venus</reponse>
+		<reponse>Mars</reponse>
+	</question>
+	
+	<question texte="Quelles corps sont les plus près du Soleil ?">
+		<reponse>Les planètes gazeuses</reponse>
+		<reponse bonne="vrai">Les planètes telluriques</reponse>
+		<reponse>Les astéroïdes</reponse>
+		<reponse>Les autres galaxies</reponse>
+	</question>
+	
+	<question texte="Par quoi se caractérisent les planètes gazeuses ?">
+		<reponse bonne="vrai">De nombreux satellites</reponse>
+		<reponse>Une forte densité</reponse>
+		<reponse>Par un noyau gazeux</reponse>
+		<reponse>Par des anneaux les entourant</reponse>
+	</question>
+	
+	<question texte="Par quoi se caractérisent les planètes telluriques ?">
+		<reponse>Une constitution gazeuse</reponse>
+		<reponse bonne="vrai">Une constitution rocheuse</reponse>
+		<reponse>Une taille importante</reponse>
+		<reponse>Aucun anneau les entourant</reponse>
+	</question>
+	
+	<question texte="Combien de satellites naturels possède Mercure ?">
+		<reponse>100</reponse>
+		<reponse>10</reponse>
+		<reponse>1</reponse>
+		<reponse bonne="vrai">0</reponse>
+	</question>
+	
+	<question texte="Quel planète possède le seul satellite possédant une atmosphère substantielle ?">
+		<reponse>La Tere</reponse>
+		<reponse bonne="vrai">Saturne</reponse>
+		<reponse>Jupiter</reponse>
+		<reponse>Uranus</reponse>
+	</question>
+	
+	<question texte="De quoi est composée l'atmosphère de Mars est composée en majorité ?">
+		<reponse>D'eau</reponse>
+		<reponse bonne="vrai">De dioxyde de carbone</reponse>
+		<reponse>D'oxygène</reponse>
+		<reponse>D'hydrogène</reponse>
+	</question>
+	
+	<question texte="Les planètes gazeuses ne sont pas composées de...">
+		<reponse>Hydrogène</reponse>
+		<reponse>Hélium</reponse>
+		<reponse>Méthane</reponse>
+		<reponse bonne="vrai">Fer</reponse>
+	</question>
+	
+	<question texte="Les noms des planètes ont pour origine...">
+		<reponse>Le Moyen-Age</reponse>
+		<reponse>La préhistoire</reponse>
+		<reponse bonne="vrai">La mythologie romaine</reponse>
+		<reponse>La mythologie grecque</reponse>
+	</question>
+</questions>

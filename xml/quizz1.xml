@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<questions>		
+	<question texte="Laquelle de ces 4 planètes n'est pas une planète tellurique ?">
+		<reponse>La Terre</reponse>
+		<reponse bonne="vrai">Saturne</reponse>
+		<reponse>Mars</reponse>
+		<reponse>Mercure</reponse>
+	</question>
+	
+	<question texte="Quelle planète est la plus proche du soleil ?">
+		<reponse>Uranus</reponse>
+		<reponse>Vénus</reponse>
+		<reponse bonne="vrai">Mercure</reponse>
+		<reponse>Neptune</reponse>
+	</question>
+	
+	<question texte="Comment peut-on définir au mieux les astéroïdes ?">
+		<reponse bonne="vrai">Ce sont des restes de la formation du système solaire.</reponse>
+		<reponse>Ce sont des éléments qui vont se rassembler plus tard en une lune.</reponse>
+		<reponse>Ils forment une protection contre les météorites.</reponse>
+		<reponse>On ne connait pas leur provenance.</reponse>
+
+
+	</question>
+	
+	<question texte="Combien de planètes compte le système solaire ?">
+		<reponse>1</reponse>
+		<reponse>5</reponse>
+		<reponse bonne="vrai">8</reponse>
+		<reponse>10</reponse>
+	</question>
+	
+	<question texte="En quelle année le premier objet humain fut envoyé dans l'espace ?">
+		<reponse>1946</reponse>
+		<reponse>1950</reponse>
+		<reponse bonne="vrai">1957</reponse>
+		<reponse>1961</reponse>
+	</question>
+	
+	<question texte="Trouvez l'intrus :">
+		<reponse>Neptune</reponse>
+		<reponse>Uranus</reponse>
+		<reponse bonne="vrai">Saturne</reponse>
+		<reponse>Jupiter</reponse>
+	</question>
+	
+	<question texte="Un satellite naturel est...">
+		<reponse>Un astéroïde</reponse>
+		<reponse bonne="vrai">Une lune</reponse>
+		<reponse>Un objet envoyé de la Terre</reponse>
+		<reponse>Une comète</reponse>
+	</question>
+	
+	<question texte="Trouvez l'intrus :">
+		<reponse>Youri Gagarine</reponse>
+		<reponse>Buzz Aldrin</reponse>
+		<reponse>Neil Armstrong</reponse>
+		<reponse bonne="vrai">Lans Armstrong</reponse>
+	</question>
+	
+	<question texte="Où se situe la ceinture d'astéroïdes ?">
+		<reponse>Entre la Terre et Mars</reponse>
+		<reponse>Entre la Terre et Vénus</reponse>
+		<reponse>Entre Jupiter et Saturne</reponse>
+		<reponse bonne="vrai">Entre Mars et Jupiter</reponse>
+	</question>
+	
+	<question texte="Le système solaire contient combien de petits corps ?">
+		<reponse>des milliers</reponse>
+		<reponse bonne="vrai">des milliards</reponse>
+		<reponse>des millions</reponse>
+		<reponse>une infinité</reponse>
+	</question>
+	
+	<question texte="Comment s'appelle le plus grand corps de la ceinture d'astéroïdes ?">
+		<reponse>Pérès</reponse>
+		<reponse bonne="vrai">Cérès</reponse>
+		<reponse>Férès</reponse>
+		<reponse>Xérès</reponse>
+	</question>
+	
+	<question texte="Quelle est la masse du soleil ?">
+		<reponse bonne="vrai">2 × 10 puissance 30 kg</reponse>
+		<reponse>2 × 10 puissance 40 kg</reponse>
+		<reponse>2 × 10 puissance 50 kg</reponse>
+		<reponse>2 × 10 puissance 60 kg</reponse>
+	</question>
+	
+	<question texte="Quel âge a le système solaire ?">
+		<reponse>Entre 1 et 2 milliards d'années</reponse>
+		<reponse bonne="vrai">Entre 4 et 5 milliards d'années</reponse>
+		<reponse>Entre 5 et 6 milliards d'années</reponse>
+		<reponse>Entre 8 et 9 milliards d'années</reponse>
+	</question>
+	
+	<question texte="Quel est la diamètre en années lumière du système solaire ?">
+		<reponse>1 000</reponse>
+		<reponse>50 000</reponse>
+		<reponse>90 000</reponse>
+		<reponse bonne="vrai">100 000</reponse>
+	</question>
+	
+	<question texte="Le système solaire est dans la galaxie :">
+		<reponse>La Voie Etoilée</reponse>
+		<reponse bonne="vrai">La Voie Lactée</reponse>
+		<reponse>La Voie Lachée</reponse>
+		<reponse>La Voie Cassée</reponse>
+	</question>
+	
+	<question texte="Combien y a t'il d'étoiles dans notre système solaire ?">
+		<reponse>0</reponse>
+		<reponse bonne="vrai">1</reponse>
+		<reponse>9</reponse>
+		<reponse>une infinité</reponse>
+	</question>
+	
+	<question texte="Trouvez l'intrus :">
+		<reponse>Planètes joviennes</reponse>
+		<reponse>Planètes télluriques</reponse>
+		<reponse>Planètes naines</reponse>
+		<reponse bonne="vrai">Planètes saines</reponse>
+	</question>
+	
+	<question texte="Le soleil est une étoile de type...">
+		<reponse>Géante Orange</reponse>
+		<reponse>Naine Orange</reponse>
+		<reponse>Géante jaune</reponse>
+		<reponse bonne="vrai">Naine jaune</reponse>
+	</question>
+</questions>
