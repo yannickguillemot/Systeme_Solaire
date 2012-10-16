@@ -1,4 +1,4 @@
-Projet IN42 : Introduction au multimédia. 
+Projet d'Introduction au multimédia. 
 Réalisé par Guillemot Yannick et Grosperrin Quentin
 Printemps 2011
 
